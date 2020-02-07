@@ -54,6 +54,4 @@ function addCourses(course) {
     } else if (course.category == "drinks"){
             sections[4].appendChild(courseClone);
     }
-
-
 }
